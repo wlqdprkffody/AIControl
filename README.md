@@ -70,8 +70,8 @@
 
 
 |Sr.No.|Function & Description|
-| 1. | int(x[,base]) Converts x to an integer. The base if x is a string.        |
 |----|---------------------------------------------------------------------------|
+| 1  | int(x[,base]) Converts x to an integer. The base if x is a string.        |
 | 2  | float(x) Converts x to a floating-point number.                           |
 | 3  | complex(real[,imag]) Creates a complex number.                            |
 | 4  | str(x) Converts object x to a string representation.                      |
