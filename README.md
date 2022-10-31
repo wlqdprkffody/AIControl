@@ -108,3 +108,8 @@
 | 16 | oct(x) Converts an integer to an octal string.                            |
 
 
+
+
+[AI 제어 실습 프로젝트 계획.pptx](https://github.com/wlqdprkffody/AIControl/files/9899030/AI.pptx)
+
+
