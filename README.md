@@ -112,4 +112,4 @@
 
 [AI 제어 실습 프로젝트 계획.pptx](https://github.com/wlqdprkffody/AIControl/files/9899030/AI.pptx)
 
-
+https://www.youtube.com/@jihun7920
